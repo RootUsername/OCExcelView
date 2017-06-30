@@ -1,9 +1,3 @@
-# excelView
-一个可以使用“flex布局”的表格控件。
-
-使用方法就像使用UITableView类似：
-
-```objective-cO
 //
 //  ViewController.m
 //  exceltest
@@ -114,9 +108,3 @@
 }
 
 @end
-
-```
-
-
-
-![operation]()
